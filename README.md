@@ -21,23 +21,27 @@ HeadFirstC# for 3rd
 - PoolPuzzle
 - FunWithJoeAndBob
 
-4-1. MileageCalculator
-4-2. SwappingElephants
-4-3. SloppyJoe
-4-4. CodeMagnets
-4-5. PoolPuzzle
-4-6. KeyGame
-4-7. BouncingLabels
+###### Chapter 4.
+- MileageCalculator
+- SwappingElephants
+- SloppyJoe
+- CodeMagnets
+- PoolPuzzle
+- KeyGame
+- BouncingLabels
 
-5-1. DinnerParty_first_version
-5-2. Dinner_party_fixed
-5-3. CowCalculator
+###### Chapter 5.
+- DinnerParty_first_version
+- Dinner_party_fixed
+- CowCalculator
 
-6-1. BirthdayParty_first_version
-6-2. JewelThief
-6-3. CallBaseClassConstructor
-6-4. BirthdayParty_with_inheritance
-6-5. BeehiveManagementSystem
+###### Chapter 6.
+- BirthdayParty_first_version
+- JewelThief
+- CallBaseClassConstructor
+- BirthdayParty_with_inheritance
+- BeehiveManagementSystem
+
 
 7-1. GetPracticeUsingInterfaces
 7-2. FingersTheClown
