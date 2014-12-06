@@ -42,44 +42,46 @@ HeadFirstC# for 3rd
 - BirthdayParty_with_inheritance
 - BeehiveManagementSystem
 
+###### Chapter 7.
+- GetPracticeUsingInterfaces
+- FingersTheClown
+- FingersTheClown_modified
+- PlanetMission
+- PlanetMission_abstract
+- LetsBuildHouse
+- HideAndSeek
+- PoolPuzzle
 
-7-1. GetPracticeUsingInterfaces
-7-2. FingersTheClown
-7-3. FingersTheClown_modified
-7-4. PlanetMission
-7-5. PlanetMission_abstract
-7-6. LetsBuildHouse
-7-7. HideAndSeek
-7-8. PoolPuzzle
+###### Chapter 8.
+- ClassThatHoldsAPlayingCard
+- ShoeCloset
+- CodeMagnets
+- LetsCreateAListOfDucks
+- CreateFiveCardsThenSortThem
+- UpcastAnEntireList
+- BuildYourOwnOverloadedMethods
+- TwoDecks
+- DictionaryInAction
+- RetiredJerseyNumbers
+- GoFish
+- FifoLifo
+- BreakfastForLumberjacks
 
-8-1. ClassThatHoldsAPlayingCard
-8-2. ShoeCloset
-8-3. CodeMagnets
-8-4. LetsCreateAListOfDucks
-8-5. CreateFiveCardsThenSortThem
-8-6. UpcastAnEntireList
-8-7. BuildYourOwnOverloadedMethods
-8-8. TwoDecks
-8-9. DictionaryInAction
-8-10. RetiredJerseyNumbers
-8-11. GoFish
-8-12. FifoLifo
-8-13. BreakfastForLumberjacks
-
-9-1. SwindlersDiabolicalPlan
-9-2. StreamWriterMagnets
-9-3. ReadingAndWritingUsingTwoObjects
-9-4. PoolPuzzle
-9-5. SimpleTextEditor
-9-6. ExcuseManager
-9-7. FunWithJoeAndBob
-9-8. SerializeADeckOfCards
-9-9. DotNetUsesUnicode
-9-10. UseABinaryWriter
-9-11. SerializeCardsManually
-9-12. HexDumperUsingStreamReader
-9-13. HexDumper
-9-14. ExcuseManager_Serialized
+###### Chapter 9.
+- SwindlersDiabolicalPlan
+- StreamWriterMagnets
+- ReadingAndWritingUsingTwoObjects
+- PoolPuzzle
+- SimpleTextEditor
+- ExcuseManager
+- FunWithJoeAndBob
+- SerializeADeckOfCards
+- DotNetUsesUnicode
+- UseABinaryWriter
+- SerializeCardsManually
+- HexDumperUsingStreamReader
+- HexDumper
+- ExcuseManager_Serialized
 
 10-1. BeehiveManagementSystem
 10-2. BreakfastForLumberjacks
