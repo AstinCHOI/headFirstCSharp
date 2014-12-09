@@ -83,44 +83,56 @@ HeadFirstC# for 3rd
 - HexDumper
 - ExcuseManager_Serialized
 
-10-1. BeehiveManagementSystem
-10-2. BreakfastForLumberjacks
-10-3. SloppyJoeChapter10
-10-4. GoFish
+###### Chapter 10.
+- BeehiveManagementSystem
+- BreakfastForLumberjacks
+- SloppyJoeChapter10
+- GoFish
 
-11-1. AreYouHappy
-11-2. SimpleTextEditor
-11-3. GuySerializer
-11-4. ExcuseManagerApp
+###### Chapter 11.
+- AreYouHappy
+- SimpleTextEditor
+- GuySerializer
+- ExcuseManagerApp
 
-12-1. ExcuseManagerApp
-12-2. PoolPuzzle
-12-3. ExceptionMagnets
+###### Chapter 12.
+- ExcuseManagerApp
+- PoolPuzzle
+- ExceptionMagnets
 
-13-1. DisposeVersusFinalizer
-13-2. MakeAnObjectSerializeItself
-13-3. ValuesVsReferences
-13-4. RefOutNullable
-13-5. RobustGuy
-13-6. PoolPuzzle
-13-7. ExtendAHuman
-13-8. ExtensionMagnets
+###### Chapter 13.
+- DisposeVersusFinalizer
+- MakeAnObjectSerializeItself
+- ValuesVsReferences
+- RefOutNullable
+- RobustGuy
+- PoolPuzzle
+- ExtendAHuman
+- ExtensionMagnets
 
-(실험용: JimmysComics_ListView > JimmysComics)
-14-1. JimmysComics
-14-2. JimmysComicsSplitApp
+###### Chapter 14.
+- JimmysComics_ListView
+- JimmysComics
+- JimmysComicsSplitApp
 
-15-1. BaseballSimulatorApp
-15-2. WindowsFormsEvents
-15-3. JimmysComics
-15-4. ExploreRoutedEvents
-15-5. SecretIngredients
-15-6. PoolPuzzle
-15-7. BaseballSimulatorAppWithCallbacks
+###### Chapter 15.
+- BaseballSimulatorApp
+- WindowsFormsEvents
+- JimmysComics
+- ExploreRoutedEvents
+- SecretIngredients
+- PoolPuzzle
+- BaseballSimulatorAppWithCallbacks
 
-16-1. BasketballRoster
-16-2. v1, v2, v3, Stopwatch
-16-3. AnimatedBee, v2
-16-4. StarryNight
+###### Chapter 16.
+- BasketballRoster
+- Stopwatch v1
+- Stopwatch v2
+- Stopwatch v3
+- Stopwatch
+- AnimatedBee 
+- AnimatedBee v2
+- StarryNight
 
-17. BeeAttack
+###### Chapter 17.
+- BeeAttack
