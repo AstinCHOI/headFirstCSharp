@@ -4,6 +4,9 @@ headFirstC#
 HeadFirstC# for 3rd
 
 ###### Chapter 1.
+- Save_the_Humans_pages_31-34
+- Save_the_Humans_pages_38-40
+- Save_the_Humans_pages_42-44
 - Save the Humans
 
 ###### Chapter 2.
